@@ -1,0 +1,1337 @@
+-----Epoch 0 开始训练-----
+
+Total step : 100      Batch loss: 7.4820      Epoch average loss: 8.4259
+Total step : 200      Batch loss: 5.6046      Epoch average loss: 7.3745
+Total step : 300      Batch loss: 5.2171      Epoch average loss: 6.7295
+Total step : 400      Batch loss: 4.9176      Epoch average loss: 6.3109
+Total step : 500      Batch loss: 4.7612      Epoch average loss: 6.0161
+Total step : 600      Batch loss: 4.6353      Epoch average loss: 5.7937
+Total step : 700      Batch loss: 4.6026      Epoch average loss: 5.6136
+Total step : 800      Batch loss: 4.6699      Epoch average loss: 5.4669
+Total step : 900      Batch loss: 3.9959      Epoch average loss: 5.3482
+Total step : 1000      Batch loss: 4.4641      Epoch average loss: 5.2433
+Total step : 1100      Batch loss: 3.8255      Epoch average loss: 5.1508
+Total step : 1200      Batch loss: 3.6808      Epoch average loss: 5.0643
+Total step : 1300      Batch loss: 4.1392      Epoch average loss: 4.9854
+Total step : 1400      Batch loss: 3.9332      Epoch average loss: 4.9167
+Total step : 1500      Batch loss: 4.2023      Epoch average loss: 4.8490
+Total step : 1600      Batch loss: 2.5907      Epoch average loss: 4.7876
+Total step : 1700      Batch loss: 3.7451      Epoch average loss: 4.7309
+Total step : 1800      Batch loss: 3.3585      Epoch average loss: 4.6764
+Total step : 1900      Batch loss: 3.7104      Epoch average loss: 4.6257
+Total step : 2000      Batch loss: 3.6056      Epoch average loss: 4.5806
+Total step : 2100      Batch loss: 3.1369      Epoch average loss: 4.5365
+Total step : 2200      Batch loss: 3.9536      Epoch average loss: 4.4968
+
+-----Epoch 0 开始测试-----
+
+Epoch: 0    BLEU: 0.0679
+
+-----Epoch 1 开始训练-----
+
+Total step : 2300      Batch loss: 2.5167      Epoch average loss: 3.5314
+Total step : 2400      Batch loss: 3.4506      Epoch average loss: 3.4890
+Total step : 2500      Batch loss: 3.4427      Epoch average loss: 3.4585
+Total step : 2600      Batch loss: 3.4458      Epoch average loss: 3.4518
+Total step : 2700      Batch loss: 3.4185      Epoch average loss: 3.4356
+Total step : 2800      Batch loss: 2.8438      Epoch average loss: 3.4279
+Total step : 2900      Batch loss: 3.8868      Epoch average loss: 3.4186
+Total step : 3000      Batch loss: 3.7024      Epoch average loss: 3.4110
+Total step : 3100      Batch loss: 3.4876      Epoch average loss: 3.4015
+Total step : 3200      Batch loss: 2.4899      Epoch average loss: 3.3925
+Total step : 3300      Batch loss: 3.6353      Epoch average loss: 3.3816
+Total step : 3400      Batch loss: 3.5006      Epoch average loss: 3.3723
+Total step : 3500      Batch loss: 3.1461      Epoch average loss: 3.3607
+Total step : 3600      Batch loss: 3.4139      Epoch average loss: 3.3491
+Total step : 3700      Batch loss: 3.3402      Epoch average loss: 3.3425
+Total step : 3800      Batch loss: 3.7212      Epoch average loss: 3.3294
+Total step : 3900      Batch loss: 2.5717      Epoch average loss: 3.3210
+Total step : 4000      Batch loss: 2.5008      Epoch average loss: 3.3143
+Total step : 4100      Batch loss: 3.1185      Epoch average loss: 3.3027
+Total step : 4200      Batch loss: 3.0120      Epoch average loss: 3.2937
+Total step : 4300      Batch loss: 3.8959      Epoch average loss: 3.2861
+Total step : 4400      Batch loss: 2.3974      Epoch average loss: 3.2777
+Total step : 4500      Batch loss: 2.6523      Epoch average loss: 3.2694
+
+-----Epoch 1 开始测试-----
+
+Epoch: 1    BLEU: 0.1162
+
+-----Epoch 2 开始训练-----
+
+Total step : 4600      Batch loss: 3.8310      Epoch average loss: 3.1408
+Total step : 4700      Batch loss: 2.4046      Epoch average loss: 3.0044
+Total step : 4800      Batch loss: 3.3048      Epoch average loss: 2.9893
+Total step : 4900      Batch loss: 3.2704      Epoch average loss: 2.9788
+Total step : 5000      Batch loss: 2.9353      Epoch average loss: 2.9737
+Total step : 5100      Batch loss: 3.0356      Epoch average loss: 2.9660
+Total step : 5200      Batch loss: 2.4595      Epoch average loss: 2.9737
+Total step : 5300      Batch loss: 3.3160      Epoch average loss: 2.9620
+Total step : 5400      Batch loss: 3.2712      Epoch average loss: 2.9552
+Total step : 5500      Batch loss: 2.3825      Epoch average loss: 2.9528
+Total step : 5600      Batch loss: 2.9943      Epoch average loss: 2.9493
+Total step : 5700      Batch loss: 2.8027      Epoch average loss: 2.9438
+Total step : 5800      Batch loss: 2.6091      Epoch average loss: 2.9394
+Total step : 5900      Batch loss: 2.3239      Epoch average loss: 2.9393
+Total step : 6000      Batch loss: 2.6863      Epoch average loss: 2.7651
+Total step : 6100      Batch loss: 2.8322      Epoch average loss: 2.8168
+Total step : 6200      Batch loss: 2.8529      Epoch average loss: 2.8065
+Total step : 6300      Batch loss: 2.4259      Epoch average loss: 2.8007
+Total step : 6400      Batch loss: 3.0209      Epoch average loss: 2.7985
+Total step : 6500      Batch loss: 3.3599      Epoch average loss: 2.8001
+Total step : 6600      Batch loss: 3.0200      Epoch average loss: 2.7974
+Total step : 6700      Batch loss: 2.5454      Epoch average loss: 2.8028
+Total step : 6800      Batch loss: 3.1705      Epoch average loss: 2.8023
+Total step : 6900      Batch loss: 2.7592      Epoch average loss: 2.7971
+Total step : 7000      Batch loss: 2.4024      Epoch average loss: 2.7956
+Total step : 7100      Batch loss: 2.4937      Epoch average loss: 2.7959
+Total step : 7200      Batch loss: 3.2199      Epoch average loss: 2.7939
+Total step : 7300      Batch loss: 3.3189      Epoch average loss: 2.7936
+Total step : 7400      Batch loss: 3.0120      Epoch average loss: 2.7916
+Total step : 7500      Batch loss: 2.6039      Epoch average loss: 2.7916
+Total step : 7600      Batch loss: 2.8936      Epoch average loss: 2.7939
+Total step : 7700      Batch loss: 2.6328      Epoch average loss: 2.7902
+Total step : 7800      Batch loss: 3.0223      Epoch average loss: 2.7883
+Total step : 7900      Batch loss: 3.1987      Epoch average loss: 2.7850
+Total step : 8000      Batch loss: 2.3179      Epoch average loss: 2.7835
+Total step : 8100      Batch loss: 2.7193      Epoch average loss: 2.7806
+
+-----Epoch 2 开始测试-----
+
+Epoch: 2    BLEU: 0.1601
+
+-----Epoch 3 开始训练-----
+
+Total step : 8200      Batch loss: 2.3131      Epoch average loss: 2.6440
+Total step : 8300      Batch loss: 2.2693      Epoch average loss: 2.6374
+Total step : 8400      Batch loss: 2.6342      Epoch average loss: 2.6053
+Total step : 8500      Batch loss: 2.5209      Epoch average loss: 2.5996
+Total step : 8600      Batch loss: 2.3090      Epoch average loss: 2.6144
+Total step : 8700      Batch loss: 2.1354      Epoch average loss: 2.6074
+Total step : 8800      Batch loss: 2.6405      Epoch average loss: 2.6125
+Total step : 8900      Batch loss: 2.1495      Epoch average loss: 2.6112
+Total step : 9000      Batch loss: 2.8822      Epoch average loss: 2.6156
+Total step : 9100      Batch loss: 2.4053      Epoch average loss: 2.6119
+Total step : 9200      Batch loss: 3.0381      Epoch average loss: 2.6105
+Total step : 9300      Batch loss: 2.8798      Epoch average loss: 2.5995
+Total step : 9400      Batch loss: 2.7413      Epoch average loss: 2.6099
+Total step : 9500      Batch loss: 2.2234      Epoch average loss: 2.6106
+Total step : 9600      Batch loss: 3.1487      Epoch average loss: 2.6091
+Total step : 9700      Batch loss: 2.0960      Epoch average loss: 2.6103
+Total step : 9800      Batch loss: 2.5222      Epoch average loss: 2.6080
+Total step : 9900      Batch loss: 2.6979      Epoch average loss: 2.6082
+Total step : 10000      Batch loss: 2.4995      Epoch average loss: 2.6065
+Total step : 10100      Batch loss: 2.9291      Epoch average loss: 2.6071
+Total step : 10200      Batch loss: 3.0689      Epoch average loss: 2.6034
+Total step : 10300      Batch loss: 2.3086      Epoch average loss: 2.6011
+Total step : 10400      Batch loss: 2.3997      Epoch average loss: 2.5996
+
+-----Epoch 3 开始测试-----
+
+Epoch: 3    BLEU: 0.1739
+
+-----Epoch 4 开始训练-----
+
+Total step : 10500      Batch loss: 2.9634      Epoch average loss: 2.5830
+Total step : 10600      Batch loss: 2.8455      Epoch average loss: 2.4573
+Total step : 10700      Batch loss: 2.0372      Epoch average loss: 2.4675
+Total step : 10800      Batch loss: 2.9468      Epoch average loss: 2.4629
+Total step : 10900      Batch loss: 2.4808      Epoch average loss: 2.4599
+Total step : 11000      Batch loss: 2.4664      Epoch average loss: 2.4669
+Total step : 11100      Batch loss: 2.4176      Epoch average loss: 2.4625
+Total step : 11200      Batch loss: 2.9180      Epoch average loss: 2.4683
+Total step : 11300      Batch loss: 2.7918      Epoch average loss: 2.4724
+Total step : 11400      Batch loss: 2.2760      Epoch average loss: 2.4660
+Total step : 11500      Batch loss: 2.5827      Epoch average loss: 2.4663
+Total step : 11600      Batch loss: 2.4520      Epoch average loss: 2.4660
+Total step : 11700      Batch loss: 2.0361      Epoch average loss: 2.4685
+Total step : 11800      Batch loss: 2.6837      Epoch average loss: 2.4648
+Total step : 11900      Batch loss: 2.9049      Epoch average loss: 2.4683
+Total step : 12000      Batch loss: 2.8689      Epoch average loss: 2.4651
+Total step : 12100      Batch loss: 1.4456      Epoch average loss: 2.4645
+Total step : 12200      Batch loss: 2.8989      Epoch average loss: 2.4648
+Total step : 12300      Batch loss: 2.1540      Epoch average loss: 2.4632
+Total step : 12400      Batch loss: 3.1187      Epoch average loss: 2.4627
+Total step : 12500      Batch loss: 2.5556      Epoch average loss: 2.4628
+Total step : 12600      Batch loss: 2.9966      Epoch average loss: 2.4598
+Total step : 12700      Batch loss: 2.1282      Epoch average loss: 2.4603
+
+-----Epoch 4 开始测试-----
+
+Epoch: 4    BLEU: 0.1874
+
+-----Epoch 5 开始训练-----
+
+Total step : 12800      Batch loss: 2.4222      Epoch average loss: 2.2996
+Total step : 12900      Batch loss: 2.4540      Epoch average loss: 2.2942
+Total step : 13000      Batch loss: 2.7770      Epoch average loss: 2.3272
+Total step : 13100      Batch loss: 2.4671      Epoch average loss: 2.3192
+Total step : 13200      Batch loss: 2.6437      Epoch average loss: 2.3209
+Total step : 13300      Batch loss: 2.2822      Epoch average loss: 2.3346
+Total step : 13400      Batch loss: 2.5400      Epoch average loss: 2.3365
+Total step : 13500      Batch loss: 2.6323      Epoch average loss: 2.3391
+Total step : 13600      Batch loss: 2.7006      Epoch average loss: 2.3421
+Total step : 13700      Batch loss: 1.8608      Epoch average loss: 2.3373
+Total step : 13800      Batch loss: 1.7359      Epoch average loss: 2.3405
+Total step : 13900      Batch loss: 1.5874      Epoch average loss: 2.3353
+Total step : 14000      Batch loss: 3.3145      Epoch average loss: 2.3415
+Total step : 14100      Batch loss: 2.8033      Epoch average loss: 2.3426
+Total step : 14200      Batch loss: 2.4800      Epoch average loss: 2.3471
+Total step : 14300      Batch loss: 2.5925      Epoch average loss: 2.3452
+Total step : 14400      Batch loss: 2.0354      Epoch average loss: 2.3445
+Total step : 14500      Batch loss: 2.1318      Epoch average loss: 2.3466
+Total step : 14600      Batch loss: 2.3822      Epoch average loss: 2.3458
+Total step : 14700      Batch loss: 2.1952      Epoch average loss: 2.3461
+Total step : 14800      Batch loss: 2.4360      Epoch average loss: 2.3466
+Total step : 14900      Batch loss: 1.7536      Epoch average loss: 2.3488
+Total step : 15000      Batch loss: 1.7845      Epoch average loss: 2.3475
+
+-----Epoch 5 开始测试-----
+
+Epoch: 5    BLEU: 0.1912
+
+-----Epoch 6 开始训练-----
+
+Total step : 15100      Batch loss: 2.5545      Epoch average loss: 2.1347
+Total step : 15200      Batch loss: 2.7381      Epoch average loss: 2.2045
+Total step : 15300      Batch loss: 1.6163      Epoch average loss: 2.2233
+Total step : 15400      Batch loss: 2.8894      Epoch average loss: 2.2122
+Total step : 15500      Batch loss: 2.4775      Epoch average loss: 2.2212
+Total step : 15600      Batch loss: 2.7974      Epoch average loss: 2.2235
+Total step : 15700      Batch loss: 2.3732      Epoch average loss: 2.2260
+Total step : 15800      Batch loss: 2.5267      Epoch average loss: 2.2346
+Total step : 15900      Batch loss: 1.7989      Epoch average loss: 2.2366
+Total step : 16000      Batch loss: 2.6934      Epoch average loss: 2.2390
+Total step : 16100      Batch loss: 2.4640      Epoch average loss: 2.2402
+Total step : 16200      Batch loss: 1.7440      Epoch average loss: 2.2424
+Total step : 16300      Batch loss: 2.3359      Epoch average loss: 2.2444
+Total step : 16400      Batch loss: 2.1765      Epoch average loss: 2.2438
+Total step : 16500      Batch loss: 1.7818      Epoch average loss: 2.2455
+Total step : 16600      Batch loss: 2.0008      Epoch average loss: 2.2485
+Total step : 16700      Batch loss: 2.0097      Epoch average loss: 2.2512
+Total step : 16800      Batch loss: 1.9095      Epoch average loss: 2.2494
+Total step : 16900      Batch loss: 2.4026      Epoch average loss: 2.2531
+Total step : 17000      Batch loss: 2.3642      Epoch average loss: 2.2544
+Total step : 17100      Batch loss: 2.0330      Epoch average loss: 2.2521
+Total step : 17200      Batch loss: 2.6252      Epoch average loss: 2.2526
+Total step : 17300      Batch loss: 2.3622      Epoch average loss: 2.2556
+
+-----Epoch 6 开始测试-----
+
+Epoch: 6    BLEU: 0.2051
+
+-----Epoch 7 开始训练-----
+
+Total step : 17400      Batch loss: 2.6642      Epoch average loss: 2.1166
+Total step : 17500      Batch loss: 2.2309      Epoch average loss: 2.1337
+Total step : 17600      Batch loss: 2.2341      Epoch average loss: 2.1382
+Total step : 17700      Batch loss: 1.4914      Epoch average loss: 2.1357
+Total step : 17800      Batch loss: 2.0200      Epoch average loss: 2.1417
+Total step : 17900      Batch loss: 1.9745      Epoch average loss: 2.1424
+Total step : 18000      Batch loss: 2.0652      Epoch average loss: 2.1525
+Total step : 18100      Batch loss: 2.0515      Epoch average loss: 2.1522
+Total step : 18200      Batch loss: 2.1985      Epoch average loss: 2.1505
+Total step : 18300      Batch loss: 2.1889      Epoch average loss: 2.1543
+Total step : 18400      Batch loss: 2.7117      Epoch average loss: 2.1571
+Total step : 18500      Batch loss: 2.2285      Epoch average loss: 2.1638
+Total step : 18600      Batch loss: 2.4363      Epoch average loss: 2.1637
+Total step : 18700      Batch loss: 2.7155      Epoch average loss: 2.1648
+Total step : 18800      Batch loss: 2.3763      Epoch average loss: 2.1660
+Total step : 18900      Batch loss: 2.1864      Epoch average loss: 2.1661
+Total step : 19000      Batch loss: 2.3662      Epoch average loss: 2.1682
+Total step : 19100      Batch loss: 1.9645      Epoch average loss: 2.1684
+Total step : 19200      Batch loss: 2.7393      Epoch average loss: 2.1710
+Total step : 19300      Batch loss: 2.6139      Epoch average loss: 2.1704
+Total step : 19400      Batch loss: 1.7984      Epoch average loss: 2.1720
+Total step : 19500      Batch loss: 2.2227      Epoch average loss: 2.1728
+Total step : 19600      Batch loss: 1.9706      Epoch average loss: 2.1745
+
+-----Epoch 7 开始测试-----
+
+Epoch: 7    BLEU: 0.2110
+
+-----Epoch 8 开始训练-----
+
+Total step : 19700      Batch loss: 2.0445      Epoch average loss: 2.1871
+Total step : 19800      Batch loss: 2.4947      Epoch average loss: 2.1024
+Total step : 19900      Batch loss: 1.7512      Epoch average loss: 2.0603
+Total step : 20000      Batch loss: 2.1911      Epoch average loss: 2.0576
+Total step : 20100      Batch loss: 1.9405      Epoch average loss: 2.0677
+Total step : 20200      Batch loss: 2.0278      Epoch average loss: 2.0759
+Total step : 20300      Batch loss: 2.5518      Epoch average loss: 2.0777
+Total step : 20400      Batch loss: 1.8931      Epoch average loss: 2.0807
+Total step : 20500      Batch loss: 2.0483      Epoch average loss: 2.0805
+Total step : 20600      Batch loss: 2.0556      Epoch average loss: 2.0856
+Total step : 20700      Batch loss: 1.8669      Epoch average loss: 2.0879
+Total step : 20800      Batch loss: 2.1859      Epoch average loss: 2.0899
+Total step : 20900      Batch loss: 2.0107      Epoch average loss: 2.0897
+Total step : 21000      Batch loss: 2.1918      Epoch average loss: 2.0916
+Total step : 21100      Batch loss: 1.9650      Epoch average loss: 2.0954
+Total step : 21200      Batch loss: 2.1296      Epoch average loss: 2.0951
+Total step : 21300      Batch loss: 2.2007      Epoch average loss: 2.0969
+Total step : 21400      Batch loss: 2.1577      Epoch average loss: 2.0989
+Total step : 21500      Batch loss: 2.3492      Epoch average loss: 2.1008
+Total step : 21600      Batch loss: 2.0489      Epoch average loss: 2.1016
+Total step : 21700      Batch loss: 2.3775      Epoch average loss: 2.1031
+Total step : 21800      Batch loss: 1.8691      Epoch average loss: 2.1059
+Total step : 21900      Batch loss: 2.6646      Epoch average loss: 2.1045
+
+-----Epoch 8 开始测试-----
+
+Epoch: 8    BLEU: 0.2152
+
+-----Epoch 9 开始训练-----
+
+Total step : 22000      Batch loss: 1.7851      Epoch average loss: 1.9703
+Total step : 22100      Batch loss: 2.4551      Epoch average loss: 1.9830
+Total step : 22200      Batch loss: 2.1081      Epoch average loss: 1.9879
+Total step : 22300      Batch loss: 2.4992      Epoch average loss: 1.9928
+Total step : 22400      Batch loss: 2.2342      Epoch average loss: 2.0036
+Total step : 22500      Batch loss: 2.0521      Epoch average loss: 2.0062
+Total step : 22600      Batch loss: 2.0977      Epoch average loss: 2.0084
+Total step : 22700      Batch loss: 2.2954      Epoch average loss: 2.0165
+Total step : 22800      Batch loss: 2.0979      Epoch average loss: 2.0186
+Total step : 22900      Batch loss: 2.6111      Epoch average loss: 2.0199
+Total step : 23000      Batch loss: 1.9162      Epoch average loss: 2.0225
+Total step : 23100      Batch loss: 1.7431      Epoch average loss: 2.0233
+Total step : 23200      Batch loss: 2.1353      Epoch average loss: 2.0283
+Total step : 23300      Batch loss: 2.2673      Epoch average loss: 2.0300
+Total step : 23400      Batch loss: 1.9783      Epoch average loss: 2.0286
+Total step : 23500      Batch loss: 1.6332      Epoch average loss: 2.0300
+Total step : 23600      Batch loss: 2.0174      Epoch average loss: 2.0327
+Total step : 23700      Batch loss: 1.9224      Epoch average loss: 2.0361
+Total step : 23800      Batch loss: 2.0989      Epoch average loss: 2.0367
+Total step : 23900      Batch loss: 1.8741      Epoch average loss: 2.0381
+Total step : 24000      Batch loss: 1.5719      Epoch average loss: 2.0390
+Total step : 24100      Batch loss: 1.8493      Epoch average loss: 2.0408
+Total step : 24200      Batch loss: 1.8397      Epoch average loss: 2.0419
+
+-----Epoch 9 开始测试-----
+
+Epoch: 9    BLEU: 0.2219
+
+-----Epoch 10 开始训练-----
+
+Total step : 24300      Batch loss: 1.7427      Epoch average loss: 1.9449
+Total step : 24400      Batch loss: 1.6457      Epoch average loss: 1.9341
+Total step : 24500      Batch loss: 1.9310      Epoch average loss: 1.9270
+Total step : 24600      Batch loss: 1.9432      Epoch average loss: 1.9327
+Total step : 24700      Batch loss: 2.0600      Epoch average loss: 1.9381
+Total step : 24800      Batch loss: 1.9057      Epoch average loss: 1.9523
+Total step : 24900      Batch loss: 2.3171      Epoch average loss: 1.9531
+Total step : 25000      Batch loss: 1.3541      Epoch average loss: 1.9493
+Total step : 25100      Batch loss: 2.0438      Epoch average loss: 1.9570
+Total step : 25200      Batch loss: 1.3433      Epoch average loss: 1.9574
+Total step : 25300      Batch loss: 1.6339      Epoch average loss: 1.9630
+Total step : 25400      Batch loss: 2.4408      Epoch average loss: 1.9660
+Total step : 25500      Batch loss: 1.8137      Epoch average loss: 1.9684
+Total step : 25600      Batch loss: 1.0238      Epoch average loss: 1.9689
+Total step : 25700      Batch loss: 1.9034      Epoch average loss: 1.9682
+Total step : 25800      Batch loss: 2.5185      Epoch average loss: 1.9737
+Total step : 25900      Batch loss: 2.6466      Epoch average loss: 1.9787
+Total step : 26000      Batch loss: 1.4706      Epoch average loss: 1.9776
+Total step : 26100      Batch loss: 2.1825      Epoch average loss: 1.9783
+Total step : 26200      Batch loss: 1.6471      Epoch average loss: 1.9812
+Total step : 26300      Batch loss: 1.9778      Epoch average loss: 1.9812
+Total step : 26400      Batch loss: 1.7639      Epoch average loss: 1.9833
+Total step : 26500      Batch loss: 1.8791      Epoch average loss: 1.9852
+
+-----Epoch 10 开始测试-----
+
+Epoch: 10    BLEU: 0.2316
+
+-----Epoch 11 开始训练-----
+
+Total step : 26600      Batch loss: 1.6875      Epoch average loss: 1.8493
+Total step : 26700      Batch loss: 1.7682      Epoch average loss: 1.8834
+Total step : 26800      Batch loss: 1.6186      Epoch average loss: 1.8924
+Total step : 26900      Batch loss: 1.7574      Epoch average loss: 1.8912
+Total step : 27000      Batch loss: 1.8298      Epoch average loss: 1.8968
+Total step : 27100      Batch loss: 1.7254      Epoch average loss: 1.8975
+Total step : 27200      Batch loss: 1.8038      Epoch average loss: 1.9036
+Total step : 27300      Batch loss: 2.0208      Epoch average loss: 1.9022
+Total step : 27400      Batch loss: 1.6751      Epoch average loss: 1.8999
+Total step : 27500      Batch loss: 1.7700      Epoch average loss: 1.9092
+Total step : 27600      Batch loss: 2.0145      Epoch average loss: 1.9128
+Total step : 27700      Batch loss: 1.6725      Epoch average loss: 1.9172
+Total step : 27800      Batch loss: 1.1133      Epoch average loss: 1.9157
+Total step : 27900      Batch loss: 1.2759      Epoch average loss: 1.9168
+Total step : 28000      Batch loss: 2.0746      Epoch average loss: 1.9209
+Total step : 28100      Batch loss: 1.7208      Epoch average loss: 1.9226
+Total step : 28200      Batch loss: 1.9786      Epoch average loss: 1.9250
+Total step : 28300      Batch loss: 2.3114      Epoch average loss: 1.9276
+Total step : 28400      Batch loss: 1.9806      Epoch average loss: 1.9301
+Total step : 28500      Batch loss: 1.9169      Epoch average loss: 1.9281
+Total step : 28600      Batch loss: 1.9550      Epoch average loss: 1.9313
+Total step : 28700      Batch loss: 2.0717      Epoch average loss: 1.9317
+Total step : 28800      Batch loss: 2.1527      Epoch average loss: 1.9341
+
+-----Epoch 11 开始测试-----
+
+Epoch: 11    BLEU: 0.2284
+
+-----Epoch 12 开始训练-----
+
+Total step : 28900      Batch loss: 2.3433      Epoch average loss: 1.8088
+Total step : 29000      Batch loss: 1.5358      Epoch average loss: 1.8245
+Total step : 29100      Batch loss: 1.5990      Epoch average loss: 1.8347
+Total step : 29200      Batch loss: 1.7130      Epoch average loss: 1.8390
+Total step : 29300      Batch loss: 2.1744      Epoch average loss: 1.8421
+Total step : 29400      Batch loss: 1.8377      Epoch average loss: 1.8561
+Total step : 29500      Batch loss: 1.5708      Epoch average loss: 1.8536
+Total step : 29600      Batch loss: 1.9232      Epoch average loss: 1.8543
+Total step : 29700      Batch loss: 2.5233      Epoch average loss: 1.8586
+Total step : 29800      Batch loss: 2.0348      Epoch average loss: 1.8609
+Total step : 29900      Batch loss: 1.6580      Epoch average loss: 1.8637
+Total step : 30000      Batch loss: 2.1814      Epoch average loss: 1.8673
+Total step : 30100      Batch loss: 1.3441      Epoch average loss: 1.8685
+Total step : 30200      Batch loss: 2.3478      Epoch average loss: 1.8686
+Total step : 30300      Batch loss: 2.7122      Epoch average loss: 1.8714
+Total step : 30400      Batch loss: 1.8155      Epoch average loss: 1.8741
+Total step : 30500      Batch loss: 1.8365      Epoch average loss: 1.8773
+Total step : 30600      Batch loss: 1.7931      Epoch average loss: 1.8777
+Total step : 30700      Batch loss: 1.5877      Epoch average loss: 1.8804
+Total step : 30800      Batch loss: 1.7844      Epoch average loss: 1.8826
+Total step : 30900      Batch loss: 2.1306      Epoch average loss: 1.8825
+Total step : 31000      Batch loss: 1.7282      Epoch average loss: 1.8842
+Total step : 31100      Batch loss: 1.9979      Epoch average loss: 1.8871
+
+-----Epoch 12 开始测试-----
+
+Epoch: 12    BLEU: 0.2324
+
+-----Epoch 13 开始训练-----
+
+Total step : 31200      Batch loss: 1.2099      Epoch average loss: 1.7537
+Total step : 31300      Batch loss: 1.3614      Epoch average loss: 1.7863
+Total step : 31400      Batch loss: 1.7409      Epoch average loss: 1.7835
+Total step : 31500      Batch loss: 1.9500      Epoch average loss: 1.7943
+Total step : 31600      Batch loss: 2.0960      Epoch average loss: 1.7937
+Total step : 31700      Batch loss: 1.6917      Epoch average loss: 1.8011
+Total step : 31800      Batch loss: 2.1248      Epoch average loss: 1.8074
+Total step : 31900      Batch loss: 1.8444      Epoch average loss: 1.8070
+Total step : 32000      Batch loss: 1.7293      Epoch average loss: 1.8085
+Total step : 32100      Batch loss: 1.6709      Epoch average loss: 1.8151
+Total step : 32200      Batch loss: 1.9359      Epoch average loss: 1.8150
+Total step : 32300      Batch loss: 1.7263      Epoch average loss: 1.8171
+Total step : 32400      Batch loss: 1.8672      Epoch average loss: 1.8213
+Total step : 32500      Batch loss: 2.1877      Epoch average loss: 1.8248
+Total step : 32600      Batch loss: 1.4320      Epoch average loss: 1.8301
+Total step : 32700      Batch loss: 1.8383      Epoch average loss: 1.8327
+Total step : 32800      Batch loss: 2.0589      Epoch average loss: 1.8346
+Total step : 32900      Batch loss: 1.9437      Epoch average loss: 1.8358
+Total step : 33000      Batch loss: 1.8906      Epoch average loss: 1.8363
+Total step : 33100      Batch loss: 1.8490      Epoch average loss: 1.8381
+Total step : 33200      Batch loss: 2.2020      Epoch average loss: 1.8394
+Total step : 33300      Batch loss: 1.8997      Epoch average loss: 1.8422
+
+-----Epoch 13 开始测试-----
+
+Epoch: 13    BLEU: 0.2389
+
+-----Epoch 14 开始训练-----
+
+Total step : 33400      Batch loss: 2.2416      Epoch average loss: 1.8912
+Total step : 33500      Batch loss: 1.7300      Epoch average loss: 1.7489
+Total step : 33600      Batch loss: 1.8597      Epoch average loss: 1.7474
+Total step : 33700      Batch loss: 2.3554      Epoch average loss: 1.7484
+Total step : 33800      Batch loss: 1.7593      Epoch average loss: 1.7479
+Total step : 33900      Batch loss: 2.0860      Epoch average loss: 1.7638
+Total step : 34000      Batch loss: 1.8942      Epoch average loss: 1.7687
+Total step : 34100      Batch loss: 1.9652      Epoch average loss: 1.7688
+Total step : 34200      Batch loss: 1.8853      Epoch average loss: 1.7695
+Total step : 34300      Batch loss: 1.5884      Epoch average loss: 1.7730
+Total step : 34400      Batch loss: 1.9260      Epoch average loss: 1.7784
+Total step : 34500      Batch loss: 2.4703      Epoch average loss: 1.7773
+Total step : 34600      Batch loss: 1.5020      Epoch average loss: 1.7820
+Total step : 34700      Batch loss: 1.7187      Epoch average loss: 1.7843
+Total step : 34800      Batch loss: 1.5160      Epoch average loss: 1.7853
+Total step : 34900      Batch loss: 1.5933      Epoch average loss: 1.7885
+Total step : 35000      Batch loss: 2.0354      Epoch average loss: 1.7928
+Total step : 35100      Batch loss: 2.1474      Epoch average loss: 1.7937
+Total step : 35200      Batch loss: 1.8052      Epoch average loss: 1.7942
+Total step : 35300      Batch loss: 1.2906      Epoch average loss: 1.7950
+Total step : 35400      Batch loss: 1.1160      Epoch average loss: 1.7969
+Total step : 35500      Batch loss: 1.7594      Epoch average loss: 1.7983
+Total step : 35600      Batch loss: 1.7961      Epoch average loss: 1.7998
+
+-----Epoch 14 开始测试-----
+
+Epoch: 14    BLEU: 0.2348
+
+-----Epoch 15 开始训练-----
+
+Total step : 35700      Batch loss: 1.5664      Epoch average loss: 1.6639
+Total step : 35800      Batch loss: 1.8768      Epoch average loss: 1.6958
+Total step : 35900      Batch loss: 1.4321      Epoch average loss: 1.6968
+Total step : 36000      Batch loss: 1.7589      Epoch average loss: 1.7152
+Total step : 36100      Batch loss: 2.0435      Epoch average loss: 1.7108
+Total step : 36200      Batch loss: 2.0740      Epoch average loss: 1.7197
+Total step : 36300      Batch loss: 2.1854      Epoch average loss: 1.7178
+Total step : 36400      Batch loss: 1.6993      Epoch average loss: 1.7216
+Total step : 36500      Batch loss: 2.0828      Epoch average loss: 1.7240
+Total step : 36600      Batch loss: 1.7847      Epoch average loss: 1.7289
+Total step : 36700      Batch loss: 1.3581      Epoch average loss: 1.7301
+Total step : 36800      Batch loss: 2.7337      Epoch average loss: 1.7370
+Total step : 36900      Batch loss: 1.6811      Epoch average loss: 1.7348
+Total step : 37000      Batch loss: 1.7878      Epoch average loss: 1.7403
+Total step : 37100      Batch loss: 1.5467      Epoch average loss: 1.7415
+Total step : 37200      Batch loss: 1.5766      Epoch average loss: 1.7457
+Total step : 37300      Batch loss: 1.6258      Epoch average loss: 1.7476
+Total step : 37400      Batch loss: 1.5533      Epoch average loss: 1.7503
+Total step : 37500      Batch loss: 1.6823      Epoch average loss: 1.7524
+Total step : 37600      Batch loss: 2.1215      Epoch average loss: 1.7532
+Total step : 37700      Batch loss: 1.6116      Epoch average loss: 1.7573
+Total step : 37800      Batch loss: 1.5509      Epoch average loss: 1.7596
+Total step : 37900      Batch loss: 1.3954      Epoch average loss: 1.7605
+
+-----Epoch 15 开始测试-----
+
+Epoch: 15    BLEU: 0.2406
+
+-----Epoch 16 开始训练-----
+
+Total step : 38000      Batch loss: 1.8082      Epoch average loss: 1.6647
+Total step : 38100      Batch loss: 1.9464      Epoch average loss: 1.6669
+Total step : 38200      Batch loss: 1.3689      Epoch average loss: 1.6617
+Total step : 38300      Batch loss: 1.2885      Epoch average loss: 1.6734
+Total step : 38400      Batch loss: 1.5926      Epoch average loss: 1.6771
+Total step : 38500      Batch loss: 2.0089      Epoch average loss: 1.6801
+Total step : 38600      Batch loss: 1.5803      Epoch average loss: 1.6847
+Total step : 38700      Batch loss: 2.0635      Epoch average loss: 1.6878
+Total step : 38800      Batch loss: 1.5659      Epoch average loss: 1.6883
+Total step : 38900      Batch loss: 1.8766      Epoch average loss: 1.6926
+Total step : 39000      Batch loss: 1.6395      Epoch average loss: 1.6973
+Total step : 39100      Batch loss: 2.0576      Epoch average loss: 1.6999
+Total step : 39200      Batch loss: 2.4450      Epoch average loss: 1.7036
+Total step : 39300      Batch loss: 1.9800      Epoch average loss: 1.7065
+Total step : 39400      Batch loss: 2.0668      Epoch average loss: 1.7099
+Total step : 39500      Batch loss: 1.7166      Epoch average loss: 1.7122
+Total step : 39600      Batch loss: 2.3202      Epoch average loss: 1.7179
+Total step : 39700      Batch loss: 2.0720      Epoch average loss: 1.7167
+Total step : 39800      Batch loss: 2.0035      Epoch average loss: 1.7183
+Total step : 39900      Batch loss: 1.7937      Epoch average loss: 1.7218
+Total step : 40000      Batch loss: 1.9096      Epoch average loss: 1.7222
+Total step : 40100      Batch loss: 1.3714      Epoch average loss: 1.7241
+Total step : 40200      Batch loss: 1.7920      Epoch average loss: 1.7256
+
+-----Epoch 16 开始测试-----
+
+Epoch: 16    BLEU: 0.2469
+
+-----Epoch 17 开始训练-----
+
+Total step : 40300      Batch loss: 1.5251      Epoch average loss: 1.6323
+Total step : 40400      Batch loss: 1.8626      Epoch average loss: 1.6442
+Total step : 40500      Batch loss: 1.6187      Epoch average loss: 1.6412
+Total step : 40600      Batch loss: 1.7602      Epoch average loss: 1.6424
+Total step : 40700      Batch loss: 1.3796      Epoch average loss: 1.6391
+Total step : 40800      Batch loss: 1.5277      Epoch average loss: 1.6466
+Total step : 40900      Batch loss: 1.9893      Epoch average loss: 1.6506
+Total step : 41000      Batch loss: 2.1969      Epoch average loss: 1.6570
+Total step : 41100      Batch loss: 1.5670      Epoch average loss: 1.6586
+Total step : 41200      Batch loss: 1.7055      Epoch average loss: 1.6618
+Total step : 41300      Batch loss: 2.0623      Epoch average loss: 1.6639
+Total step : 41400      Batch loss: 1.7236      Epoch average loss: 1.6669
+Total step : 41500      Batch loss: 1.9812      Epoch average loss: 1.6702
+Total step : 41600      Batch loss: 1.7201      Epoch average loss: 1.6744
+Total step : 41700      Batch loss: 1.5152      Epoch average loss: 1.6753
+Total step : 41800      Batch loss: 1.8469      Epoch average loss: 1.6767
+Total step : 41900      Batch loss: 1.1544      Epoch average loss: 1.6802
+Total step : 42000      Batch loss: 1.3050      Epoch average loss: 1.6793
+Total step : 42100      Batch loss: 1.4389      Epoch average loss: 1.6812
+Total step : 42200      Batch loss: 1.0368      Epoch average loss: 1.6839
+Total step : 42300      Batch loss: 2.2193      Epoch average loss: 1.6865
+Total step : 42400      Batch loss: 1.6630      Epoch average loss: 1.6885
+Total step : 42500      Batch loss: 1.6749      Epoch average loss: 1.6909
+
+-----Epoch 17 开始测试-----
+
+Epoch: 17    BLEU: 0.2481
+
+-----Epoch 18 开始训练-----
+
+Total step : 42600      Batch loss: 1.1019      Epoch average loss: 1.5917
+Total step : 42700      Batch loss: 1.2795      Epoch average loss: 1.5925
+Total step : 42800      Batch loss: 1.6588      Epoch average loss: 1.5968
+Total step : 42900      Batch loss: 1.3530      Epoch average loss: 1.6016
+Total step : 43000      Batch loss: 1.2757      Epoch average loss: 1.6094
+Total step : 43100      Batch loss: 1.6438      Epoch average loss: 1.6099
+Total step : 43200      Batch loss: 2.0081      Epoch average loss: 1.6096
+Total step : 43300      Batch loss: 1.8083      Epoch average loss: 1.6201
+Total step : 43400      Batch loss: 1.6618      Epoch average loss: 1.6272
+Total step : 43500      Batch loss: 1.7946      Epoch average loss: 1.6307
+Total step : 43600      Batch loss: 1.9138      Epoch average loss: 1.6340
+Total step : 43700      Batch loss: 1.9108      Epoch average loss: 1.6352
+Total step : 43800      Batch loss: 1.4600      Epoch average loss: 1.6376
+Total step : 43900      Batch loss: 2.1617      Epoch average loss: 1.6402
+Total step : 44000      Batch loss: 1.7082      Epoch average loss: 1.6417
+Total step : 44100      Batch loss: 1.5455      Epoch average loss: 1.6442
+Total step : 44200      Batch loss: 1.4211      Epoch average loss: 1.6467
+Total step : 44300      Batch loss: 1.8806      Epoch average loss: 1.6485
+Total step : 44400      Batch loss: 1.6458      Epoch average loss: 1.6508
+Total step : 44500      Batch loss: 1.6974      Epoch average loss: 1.6534
+Total step : 44600      Batch loss: 1.3964      Epoch average loss: 1.6562
+Total step : 44700      Batch loss: 1.3866      Epoch average loss: 1.6577
+Total step : 44800      Batch loss: 1.5767      Epoch average loss: 1.6600
+
+-----Epoch 18 开始测试-----
+
+Epoch: 18    BLEU: 0.2430
+
+-----Epoch 19 开始训练-----
+
+Total step : 44900      Batch loss: 1.3511      Epoch average loss: 1.5537
+Total step : 45000      Batch loss: 1.8412      Epoch average loss: 1.5588
+Total step : 45100      Batch loss: 1.8400      Epoch average loss: 1.5700
+Total step : 45200      Batch loss: 1.9299      Epoch average loss: 1.5797
+Total step : 45300      Batch loss: 1.3078      Epoch average loss: 1.5833
+Total step : 45400      Batch loss: 1.5058      Epoch average loss: 1.5899
+Total step : 45500      Batch loss: 1.6865      Epoch average loss: 1.5924
+Total step : 45600      Batch loss: 1.3654      Epoch average loss: 1.5919
+Total step : 45700      Batch loss: 1.5933      Epoch average loss: 1.5948
+Total step : 45800      Batch loss: 1.6700      Epoch average loss: 1.5958
+Total step : 45900      Batch loss: 1.4789      Epoch average loss: 1.5988
+Total step : 46000      Batch loss: 1.3123      Epoch average loss: 1.6014
+Total step : 46100      Batch loss: 1.7530      Epoch average loss: 1.6043
+Total step : 46200      Batch loss: 1.4503      Epoch average loss: 1.6086
+Total step : 46300      Batch loss: 1.7155      Epoch average loss: 1.6109
+Total step : 46400      Batch loss: 1.5259      Epoch average loss: 1.6147
+Total step : 46500      Batch loss: 1.8211      Epoch average loss: 1.6169
+Total step : 46600      Batch loss: 1.3047      Epoch average loss: 1.6192
+Total step : 46700      Batch loss: 1.6936      Epoch average loss: 1.6208
+Total step : 46800      Batch loss: 1.9865      Epoch average loss: 1.6239
+Total step : 46900      Batch loss: 1.2890      Epoch average loss: 1.6272
+Total step : 47000      Batch loss: 1.8675      Epoch average loss: 1.6286
+Total step : 47100      Batch loss: 1.8270      Epoch average loss: 1.6300
+
+-----Epoch 19 开始测试-----
+
+Epoch: 19    BLEU: 0.2454
+
+-----Epoch 20 开始训练-----
+
+Total step : 47200      Batch loss: 1.4466      Epoch average loss: 1.5023
+Total step : 47300      Batch loss: 1.3346      Epoch average loss: 1.5237
+Total step : 47400      Batch loss: 1.4392      Epoch average loss: 1.5425
+Total step : 47500      Batch loss: 1.6190      Epoch average loss: 1.5429
+Total step : 47600      Batch loss: 1.5300      Epoch average loss: 1.5454
+Total step : 47700      Batch loss: 1.9046      Epoch average loss: 1.5565
+Total step : 47800      Batch loss: 1.2036      Epoch average loss: 1.5612
+Total step : 47900      Batch loss: 1.8242      Epoch average loss: 1.5630
+Total step : 48000      Batch loss: 0.9675      Epoch average loss: 1.5690
+Total step : 48100      Batch loss: 1.6554      Epoch average loss: 1.5676
+Total step : 48200      Batch loss: 1.9629      Epoch average loss: 1.5718
+Total step : 48300      Batch loss: 1.8954      Epoch average loss: 1.5780
+Total step : 48400      Batch loss: 1.7772      Epoch average loss: 1.5791
+Total step : 48500      Batch loss: 1.4540      Epoch average loss: 1.5824
+Total step : 48600      Batch loss: 1.5033      Epoch average loss: 1.5837
+Total step : 48700      Batch loss: 1.4708      Epoch average loss: 1.5876
+Total step : 48800      Batch loss: 1.4607      Epoch average loss: 1.5901
+Total step : 48900      Batch loss: 1.3927      Epoch average loss: 1.5906
+Total step : 49000      Batch loss: 1.5698      Epoch average loss: 1.5935
+Total step : 49100      Batch loss: 1.5757      Epoch average loss: 1.5956
+Total step : 49200      Batch loss: 1.4978      Epoch average loss: 1.5976
+Total step : 49300      Batch loss: 1.4272      Epoch average loss: 1.5993
+Total step : 49400      Batch loss: 1.5625      Epoch average loss: 1.6021
+
+-----Epoch 20 开始测试-----
+
+Epoch: 20    BLEU: 0.2496
+
+-----Epoch 21 开始训练-----
+
+Total step : 49500      Batch loss: 1.3036      Epoch average loss: 1.5432
+Total step : 49600      Batch loss: 1.6291      Epoch average loss: 1.5318
+Total step : 49700      Batch loss: 1.4212      Epoch average loss: 1.5189
+Total step : 49800      Batch loss: 1.5496      Epoch average loss: 1.5221
+Total step : 49900      Batch loss: 1.7322      Epoch average loss: 1.5312
+Total step : 50000      Batch loss: 2.0428      Epoch average loss: 1.5321
+Total step : 50100      Batch loss: 1.5625      Epoch average loss: 1.5320
+Total step : 50200      Batch loss: 1.2343      Epoch average loss: 1.5398
+Total step : 50300      Batch loss: 1.4049      Epoch average loss: 1.5455
+Total step : 50400      Batch loss: 1.7334      Epoch average loss: 1.5450
+Total step : 50500      Batch loss: 1.7090      Epoch average loss: 1.5489
+Total step : 50600      Batch loss: 1.5530      Epoch average loss: 1.5535
+Total step : 50700      Batch loss: 1.4628      Epoch average loss: 1.5536
+Total step : 50800      Batch loss: 1.4387      Epoch average loss: 1.5563
+Total step : 50900      Batch loss: 1.6369      Epoch average loss: 1.5572
+Total step : 51000      Batch loss: 1.7080      Epoch average loss: 1.5619
+Total step : 51100      Batch loss: 1.9151      Epoch average loss: 1.5635
+Total step : 51200      Batch loss: 1.4018      Epoch average loss: 1.5651
+Total step : 51300      Batch loss: 1.6287      Epoch average loss: 1.5657
+Total step : 51400      Batch loss: 1.4588      Epoch average loss: 1.5670
+Total step : 51500      Batch loss: 1.3137      Epoch average loss: 1.5700
+Total step : 51600      Batch loss: 1.7812      Epoch average loss: 1.5721
+Total step : 51700      Batch loss: 1.7066      Epoch average loss: 1.5746
+
+-----Epoch 21 开始测试-----
+
+Epoch: 21    BLEU: 0.2509
+
+-----Epoch 22 开始训练-----
+
+Total step : 51800      Batch loss: 1.4723      Epoch average loss: 1.4798
+Total step : 51900      Batch loss: 1.7322      Epoch average loss: 1.4862
+Total step : 52000      Batch loss: 1.6837      Epoch average loss: 1.4901
+Total step : 52100      Batch loss: 1.3328      Epoch average loss: 1.4949
+Total step : 52200      Batch loss: 1.3426      Epoch average loss: 1.4974
+Total step : 52300      Batch loss: 1.2173      Epoch average loss: 1.5043
+Total step : 52400      Batch loss: 1.4686      Epoch average loss: 1.5039
+Total step : 52500      Batch loss: 1.2048      Epoch average loss: 1.5108
+Total step : 52600      Batch loss: 1.1550      Epoch average loss: 1.5160
+Total step : 52700      Batch loss: 1.6674      Epoch average loss: 1.5201
+Total step : 52800      Batch loss: 1.6151      Epoch average loss: 1.5233
+Total step : 52900      Batch loss: 1.5645      Epoch average loss: 1.5248
+Total step : 53000      Batch loss: 1.8957      Epoch average loss: 1.5281
+Total step : 53100      Batch loss: 1.8106      Epoch average loss: 1.5326
+Total step : 53200      Batch loss: 1.6749      Epoch average loss: 1.5333
+Total step : 53300      Batch loss: 1.4490      Epoch average loss: 1.5371
+Total step : 53400      Batch loss: 1.4557      Epoch average loss: 1.5387
+Total step : 53500      Batch loss: 1.8144      Epoch average loss: 1.5392
+Total step : 53600      Batch loss: 1.9772      Epoch average loss: 1.5423
+Total step : 53700      Batch loss: 1.3035      Epoch average loss: 1.5438
+Total step : 53800      Batch loss: 1.2899      Epoch average loss: 1.5468
+Total step : 53900      Batch loss: 1.5503      Epoch average loss: 1.5480
+Total step : 54000      Batch loss: 1.3043      Epoch average loss: 1.5503
+
+-----Epoch 22 开始测试-----
+
+Epoch: 22    BLEU: 0.2513
+
+-----Epoch 23 开始训练-----
+
+Total step : 54100      Batch loss: 1.6130      Epoch average loss: 1.4537
+Total step : 54200      Batch loss: 1.6186      Epoch average loss: 1.4625
+Total step : 54300      Batch loss: 1.0999      Epoch average loss: 1.4692
+Total step : 54400      Batch loss: 1.7429      Epoch average loss: 1.4758
+Total step : 54500      Batch loss: 1.6117      Epoch average loss: 1.4774
+Total step : 54600      Batch loss: 1.2684      Epoch average loss: 1.4816
+Total step : 54700      Batch loss: 1.5955      Epoch average loss: 1.4865
+Total step : 54800      Batch loss: 1.3548      Epoch average loss: 1.4917
+Total step : 54900      Batch loss: 1.6119      Epoch average loss: 1.4931
+Total step : 55000      Batch loss: 1.8373      Epoch average loss: 1.4946
+Total step : 55100      Batch loss: 1.8092      Epoch average loss: 1.4956
+Total step : 55200      Batch loss: 1.5849      Epoch average loss: 1.4998
+Total step : 55300      Batch loss: 1.4622      Epoch average loss: 1.5026
+Total step : 55400      Batch loss: 1.1128      Epoch average loss: 1.5032
+Total step : 55500      Batch loss: 1.8863      Epoch average loss: 1.5068
+Total step : 55600      Batch loss: 1.3414      Epoch average loss: 1.5113
+Total step : 55700      Batch loss: 1.6854      Epoch average loss: 1.5129
+Total step : 55800      Batch loss: 1.3690      Epoch average loss: 1.5159
+Total step : 55900      Batch loss: 1.4830      Epoch average loss: 1.5181
+Total step : 56000      Batch loss: 1.6908      Epoch average loss: 1.5205
+Total step : 56100      Batch loss: 1.8270      Epoch average loss: 1.5216
+Total step : 56200      Batch loss: 1.5290      Epoch average loss: 1.5242
+
+-----Epoch 23 开始测试-----
+
+Epoch: 23    BLEU: 0.2572
+
+-----Epoch 24 开始训练-----
+
+Total step : 56300      Batch loss: 1.2570      Epoch average loss: 1.4068
+Total step : 56400      Batch loss: 1.6972      Epoch average loss: 1.4448
+Total step : 56500      Batch loss: 1.7372      Epoch average loss: 1.4470
+Total step : 56600      Batch loss: 1.2678      Epoch average loss: 1.4598
+Total step : 56700      Batch loss: 1.4513      Epoch average loss: 1.4584
+Total step : 56800      Batch loss: 1.4196      Epoch average loss: 1.4570
+Total step : 56900      Batch loss: 1.3636      Epoch average loss: 1.4643
+Total step : 57000      Batch loss: 1.5381      Epoch average loss: 1.4666
+Total step : 57100      Batch loss: 1.7181      Epoch average loss: 1.4685
+Total step : 57200      Batch loss: 1.6298      Epoch average loss: 1.4713
+Total step : 57300      Batch loss: 1.2619      Epoch average loss: 1.4735
+Total step : 57400      Batch loss: 1.3117      Epoch average loss: 1.4809
+Total step : 57500      Batch loss: 1.3546      Epoch average loss: 1.4801
+Total step : 57600      Batch loss: 1.5775      Epoch average loss: 1.4842
+Total step : 57700      Batch loss: 1.3227      Epoch average loss: 1.4883
+Total step : 57800      Batch loss: 1.5122      Epoch average loss: 1.4875
+Total step : 57900      Batch loss: 1.4973      Epoch average loss: 1.4885
+Total step : 58000      Batch loss: 1.7037      Epoch average loss: 1.4897
+Total step : 58100      Batch loss: 1.7438      Epoch average loss: 1.4933
+Total step : 58200      Batch loss: 1.8511      Epoch average loss: 1.4958
+Total step : 58300      Batch loss: 1.8649      Epoch average loss: 1.4968
+Total step : 58400      Batch loss: 1.7705      Epoch average loss: 1.5002
+Total step : 58500      Batch loss: 1.6500      Epoch average loss: 1.5023
+
+-----Epoch 24 开始测试-----
+
+Epoch: 24    BLEU: 0.2504
+
+-----Epoch 25 开始训练-----
+
+Total step : 58600      Batch loss: 1.3550      Epoch average loss: 1.4310
+Total step : 58700      Batch loss: 1.5799      Epoch average loss: 1.4206
+Total step : 58800      Batch loss: 1.5942      Epoch average loss: 1.4058
+Total step : 58900      Batch loss: 1.1362      Epoch average loss: 1.4270
+Total step : 59000      Batch loss: 1.6642      Epoch average loss: 1.4278
+Total step : 59100      Batch loss: 1.3597      Epoch average loss: 1.4313
+Total step : 59200      Batch loss: 1.4043      Epoch average loss: 1.4329
+Total step : 59300      Batch loss: 1.5067      Epoch average loss: 1.4356
+Total step : 59400      Batch loss: 1.5960      Epoch average loss: 1.4441
+Total step : 59500      Batch loss: 1.2981      Epoch average loss: 1.4503
+Total step : 59600      Batch loss: 1.1141      Epoch average loss: 1.4495
+Total step : 59700      Batch loss: 1.6269      Epoch average loss: 1.4532
+Total step : 59800      Batch loss: 1.3354      Epoch average loss: 1.4566
+Total step : 59900      Batch loss: 1.3624      Epoch average loss: 1.4574
+Total step : 60000      Batch loss: 1.3580      Epoch average loss: 1.4607
+Total step : 60100      Batch loss: 1.3696      Epoch average loss: 1.4650
+Total step : 60200      Batch loss: 1.4554      Epoch average loss: 1.4670
+Total step : 60300      Batch loss: 1.4052      Epoch average loss: 1.4695
+Total step : 60400      Batch loss: 1.8880      Epoch average loss: 1.4728
+Total step : 60500      Batch loss: 1.4194      Epoch average loss: 1.4744
+Total step : 60600      Batch loss: 2.0209      Epoch average loss: 1.4752
+Total step : 60700      Batch loss: 1.1073      Epoch average loss: 1.4778
+Total step : 60800      Batch loss: 1.0398      Epoch average loss: 1.4799
+
+-----Epoch 25 开始测试-----
+
+Epoch: 25    BLEU: 0.2544
+
+-----Epoch 26 开始训练-----
+
+Total step : 60900      Batch loss: 1.2258      Epoch average loss: 1.3612
+Total step : 61000      Batch loss: 1.2075      Epoch average loss: 1.3933
+Total step : 61100      Batch loss: 1.4531      Epoch average loss: 1.4080
+Total step : 61200      Batch loss: 1.5834      Epoch average loss: 1.4096
+Total step : 61300      Batch loss: 1.5907      Epoch average loss: 1.4106
+Total step : 61400      Batch loss: 1.8715      Epoch average loss: 1.4132
+Total step : 61500      Batch loss: 1.5045      Epoch average loss: 1.4182
+Total step : 61600      Batch loss: 1.1319      Epoch average loss: 1.4205
+Total step : 61700      Batch loss: 1.5299      Epoch average loss: 1.4257
+Total step : 61800      Batch loss: 1.2302      Epoch average loss: 1.4284
+Total step : 61900      Batch loss: 1.0917      Epoch average loss: 1.4293
+Total step : 62000      Batch loss: 1.4930      Epoch average loss: 1.4328
+Total step : 62100      Batch loss: 1.8647      Epoch average loss: 1.4349
+Total step : 62200      Batch loss: 1.4095      Epoch average loss: 1.4378
+Total step : 62300      Batch loss: 1.6154      Epoch average loss: 1.4404
+Total step : 62400      Batch loss: 1.4274      Epoch average loss: 1.4431
+Total step : 62500      Batch loss: 1.2814      Epoch average loss: 1.4436
+Total step : 62600      Batch loss: 1.5750      Epoch average loss: 1.4468
+Total step : 62700      Batch loss: 1.5861      Epoch average loss: 1.4508
+Total step : 62800      Batch loss: 1.3024      Epoch average loss: 1.4516
+Total step : 62900      Batch loss: 1.1679      Epoch average loss: 1.4541
+Total step : 63000      Batch loss: 1.6184      Epoch average loss: 1.4564
+Total step : 63100      Batch loss: 1.7364      Epoch average loss: 1.4589
+
+-----Epoch 26 开始测试-----
+
+Epoch: 26    BLEU: 0.2492
+
+-----Epoch 27 开始训练-----
+
+Total step : 63200      Batch loss: 1.5510      Epoch average loss: 1.3783
+Total step : 63300      Batch loss: 1.5989      Epoch average loss: 1.3629
+Total step : 63400      Batch loss: 1.4941      Epoch average loss: 1.3854
+Total step : 63500      Batch loss: 1.2600      Epoch average loss: 1.3808
+Total step : 63600      Batch loss: 1.5748      Epoch average loss: 1.3889
+Total step : 63700      Batch loss: 1.3377      Epoch average loss: 1.3948
+Total step : 63800      Batch loss: 1.4534      Epoch average loss: 1.3992
+Total step : 63900      Batch loss: 1.2065      Epoch average loss: 1.4034
+Total step : 64000      Batch loss: 1.1670      Epoch average loss: 1.4065
+Total step : 64100      Batch loss: 1.2711      Epoch average loss: 1.4092
+Total step : 64200      Batch loss: 1.1553      Epoch average loss: 1.4108
+Total step : 64300      Batch loss: 1.4045      Epoch average loss: 1.4136
+Total step : 64400      Batch loss: 1.3117      Epoch average loss: 1.4163
+Total step : 64500      Batch loss: 1.1282      Epoch average loss: 1.4180
+Total step : 64600      Batch loss: 1.5129      Epoch average loss: 1.4205
+Total step : 64700      Batch loss: 1.6651      Epoch average loss: 1.4230
+Total step : 64800      Batch loss: 1.7043      Epoch average loss: 1.4248
+Total step : 64900      Batch loss: 1.6337      Epoch average loss: 1.4271
+Total step : 65000      Batch loss: 1.6385      Epoch average loss: 1.4311
+Total step : 65100      Batch loss: 0.9406      Epoch average loss: 1.4323
+Total step : 65200      Batch loss: 1.3572      Epoch average loss: 1.4360
+Total step : 65300      Batch loss: 1.7141      Epoch average loss: 1.4367
+Total step : 65400      Batch loss: 1.5643      Epoch average loss: 1.4392
+
+-----Epoch 27 开始测试-----
+
+Epoch: 27    BLEU: 0.2549
+
+-----Epoch 28 开始训练-----
+
+Total step : 65500      Batch loss: 1.1013      Epoch average loss: 1.3078
+Total step : 65600      Batch loss: 1.1275      Epoch average loss: 1.3327
+Total step : 65700      Batch loss: 1.3000      Epoch average loss: 1.3577
+Total step : 65800      Batch loss: 1.4832      Epoch average loss: 1.3589
+Total step : 65900      Batch loss: 1.3753      Epoch average loss: 1.3695
+Total step : 66000      Batch loss: 1.6309      Epoch average loss: 1.3743
+Total step : 66100      Batch loss: 1.2413      Epoch average loss: 1.3804
+Total step : 66200      Batch loss: 1.5317      Epoch average loss: 1.3808
+Total step : 66300      Batch loss: 1.5792      Epoch average loss: 1.3848
+Total step : 66400      Batch loss: 1.1325      Epoch average loss: 1.3890
+Total step : 66500      Batch loss: 1.1834      Epoch average loss: 1.3899
+Total step : 66600      Batch loss: 1.4357      Epoch average loss: 1.3924
+Total step : 66700      Batch loss: 1.1680      Epoch average loss: 1.3956
+Total step : 66800      Batch loss: 1.4106      Epoch average loss: 1.3989
+Total step : 66900      Batch loss: 1.4474      Epoch average loss: 1.4019
+Total step : 67000      Batch loss: 1.2929      Epoch average loss: 1.4053
+Total step : 67100      Batch loss: 1.3411      Epoch average loss: 1.4060
+Total step : 67200      Batch loss: 1.5022      Epoch average loss: 1.4077
+Total step : 67300      Batch loss: 1.6370      Epoch average loss: 1.4107
+Total step : 67400      Batch loss: 1.4782      Epoch average loss: 1.4136
+Total step : 67500      Batch loss: 1.2194      Epoch average loss: 1.4159
+Total step : 67600      Batch loss: 1.5486      Epoch average loss: 1.4170
+Total step : 67700      Batch loss: 1.6102      Epoch average loss: 1.4191
+
+-----Epoch 28 开始测试-----
+
+Epoch: 28    BLEU: 0.2553
+
+-----Epoch 29 开始训练-----
+
+Total step : 67800      Batch loss: 1.4095      Epoch average loss: 1.3692
+Total step : 67900      Batch loss: 0.8586      Epoch average loss: 1.3473
+Total step : 68000      Batch loss: 1.1105      Epoch average loss: 1.3405
+Total step : 68100      Batch loss: 1.6610      Epoch average loss: 1.3427
+Total step : 68200      Batch loss: 1.2028      Epoch average loss: 1.3509
+Total step : 68300      Batch loss: 1.5460      Epoch average loss: 1.3611
+Total step : 68400      Batch loss: 1.7823      Epoch average loss: 1.3620
+Total step : 68500      Batch loss: 1.2624      Epoch average loss: 1.3624
+Total step : 68600      Batch loss: 1.2338      Epoch average loss: 1.3669
+Total step : 68700      Batch loss: 1.0865      Epoch average loss: 1.3700
+Total step : 68800      Batch loss: 1.5340      Epoch average loss: 1.3729
+Total step : 68900      Batch loss: 1.4619      Epoch average loss: 1.3748
+Total step : 69000      Batch loss: 1.4722      Epoch average loss: 1.3790
+Total step : 69100      Batch loss: 1.4292      Epoch average loss: 1.3800
+Total step : 69200      Batch loss: 1.2055      Epoch average loss: 1.3817
+Total step : 69300      Batch loss: 1.6115      Epoch average loss: 1.3843
+Total step : 69400      Batch loss: 1.6634      Epoch average loss: 1.3857
+Total step : 69500      Batch loss: 1.2271      Epoch average loss: 1.3895
+Total step : 69600      Batch loss: 1.5512      Epoch average loss: 1.3923
+Total step : 69700      Batch loss: 1.0833      Epoch average loss: 1.3951
+Total step : 69800      Batch loss: 1.2697      Epoch average loss: 1.3964
+Total step : 69900      Batch loss: 1.1408      Epoch average loss: 1.3986
+Total step : 70000      Batch loss: 1.4662      Epoch average loss: 1.4017
+
+-----Epoch 29 开始测试-----
+
+Epoch: 29    BLEU: 0.2539
+
+-----Epoch 30 开始训练-----
+
+Total step : 70100      Batch loss: 1.2262      Epoch average loss: 1.3340
+Total step : 70200      Batch loss: 1.4972      Epoch average loss: 1.3344
+Total step : 70300      Batch loss: 1.1396      Epoch average loss: 1.3223
+Total step : 70400      Batch loss: 1.4138      Epoch average loss: 1.3322
+Total step : 70500      Batch loss: 1.3851      Epoch average loss: 1.3350
+Total step : 70600      Batch loss: 1.6206      Epoch average loss: 1.3369
+Total step : 70700      Batch loss: 1.1640      Epoch average loss: 1.3431
+Total step : 70800      Batch loss: 1.1952      Epoch average loss: 1.3447
+Total step : 70900      Batch loss: 1.3275      Epoch average loss: 1.3493
+Total step : 71000      Batch loss: 1.1262      Epoch average loss: 1.3505
+Total step : 71100      Batch loss: 1.3585      Epoch average loss: 1.3548
+Total step : 71200      Batch loss: 1.3290      Epoch average loss: 1.3592
+Total step : 71300      Batch loss: 1.0412      Epoch average loss: 1.3598
+Total step : 71400      Batch loss: 1.3887      Epoch average loss: 1.3618
+Total step : 71500      Batch loss: 1.5776      Epoch average loss: 1.3633
+Total step : 71600      Batch loss: 1.7207      Epoch average loss: 1.3690
+Total step : 71700      Batch loss: 1.3231      Epoch average loss: 1.3699
+Total step : 71800      Batch loss: 1.5678      Epoch average loss: 1.3736
+Total step : 71900      Batch loss: 1.6196      Epoch average loss: 1.3762
+Total step : 72000      Batch loss: 1.2711      Epoch average loss: 1.3787
+Total step : 72100      Batch loss: 1.6037      Epoch average loss: 1.3795
+Total step : 72200      Batch loss: 1.3042      Epoch average loss: 1.3816
+Total step : 72300      Batch loss: 1.4677      Epoch average loss: 1.3839
+
+-----Epoch 30 开始测试-----
+
+Epoch: 30    BLEU: 0.2556
+
+-----Epoch 31 开始训练-----
+
+Total step : 72400      Batch loss: 1.3599      Epoch average loss: 1.3084
+Total step : 72500      Batch loss: 1.3792      Epoch average loss: 1.3042
+Total step : 72600      Batch loss: 1.2492      Epoch average loss: 1.3097
+Total step : 72700      Batch loss: 1.3011      Epoch average loss: 1.3166
+Total step : 72800      Batch loss: 1.3147      Epoch average loss: 1.3188
+Total step : 72900      Batch loss: 1.1844      Epoch average loss: 1.3209
+Total step : 73000      Batch loss: 1.1475      Epoch average loss: 1.3215
+Total step : 73100      Batch loss: 0.7939      Epoch average loss: 1.3301
+Total step : 73200      Batch loss: 1.5590      Epoch average loss: 1.3338
+Total step : 73300      Batch loss: 1.6046      Epoch average loss: 1.3375
+Total step : 73400      Batch loss: 1.6550      Epoch average loss: 1.3405
+Total step : 73500      Batch loss: 1.1885      Epoch average loss: 1.3425
+Total step : 73600      Batch loss: 1.0581      Epoch average loss: 1.3451
+Total step : 73700      Batch loss: 1.5483      Epoch average loss: 1.3471
+Total step : 73800      Batch loss: 1.2250      Epoch average loss: 1.3490
+Total step : 73900      Batch loss: 1.7177      Epoch average loss: 1.3527
+Total step : 74000      Batch loss: 1.3085      Epoch average loss: 1.3538
+Total step : 74100      Batch loss: 1.4979      Epoch average loss: 1.3575
+Total step : 74200      Batch loss: 1.2553      Epoch average loss: 1.3607
+Total step : 74300      Batch loss: 1.5736      Epoch average loss: 1.3625
+Total step : 74400      Batch loss: 1.7504      Epoch average loss: 1.3628
+Total step : 74500      Batch loss: 1.4147      Epoch average loss: 1.3656
+Total step : 74600      Batch loss: 1.3672      Epoch average loss: 1.3674
+
+-----Epoch 31 开始测试-----
+
+Epoch: 31    BLEU: 0.2548
+
+-----Epoch 32 开始训练-----
+
+Total step : 74700      Batch loss: 1.3315      Epoch average loss: 1.2910
+Total step : 74800      Batch loss: 1.1524      Epoch average loss: 1.2776
+Total step : 74900      Batch loss: 1.4932      Epoch average loss: 1.2923
+Total step : 75000      Batch loss: 1.3598      Epoch average loss: 1.2960
+Total step : 75100      Batch loss: 1.1742      Epoch average loss: 1.2996
+Total step : 75200      Batch loss: 1.0915      Epoch average loss: 1.3067
+Total step : 75300      Batch loss: 1.0874      Epoch average loss: 1.3093
+Total step : 75400      Batch loss: 1.4828      Epoch average loss: 1.3121
+Total step : 75500      Batch loss: 1.5406      Epoch average loss: 1.3136
+Total step : 75600      Batch loss: 1.4901      Epoch average loss: 1.3181
+Total step : 75700      Batch loss: 1.1519      Epoch average loss: 1.3217
+Total step : 75800      Batch loss: 1.2534      Epoch average loss: 1.3245
+Total step : 75900      Batch loss: 1.2748      Epoch average loss: 1.3276
+Total step : 76000      Batch loss: 1.4648      Epoch average loss: 1.3311
+Total step : 76100      Batch loss: 1.5596      Epoch average loss: 1.3344
+Total step : 76200      Batch loss: 1.6271      Epoch average loss: 1.3362
+Total step : 76300      Batch loss: 1.1656      Epoch average loss: 1.3391
+Total step : 76400      Batch loss: 1.3925      Epoch average loss: 1.3408
+Total step : 76500      Batch loss: 1.4693      Epoch average loss: 1.3417
+Total step : 76600      Batch loss: 1.5162      Epoch average loss: 1.3446
+Total step : 76700      Batch loss: 1.6847      Epoch average loss: 1.3482
+Total step : 76800      Batch loss: 1.5029      Epoch average loss: 1.3499
+Total step : 76900      Batch loss: 1.6325      Epoch average loss: 1.3510
+
+-----Epoch 32 开始测试-----
+
+Epoch: 32    BLEU: 0.2536
+
+-----Epoch 33 开始训练-----
+
+Total step : 77000      Batch loss: 1.2263      Epoch average loss: 1.2467
+Total step : 77100      Batch loss: 1.0498      Epoch average loss: 1.2614
+Total step : 77200      Batch loss: 1.1644      Epoch average loss: 1.2732
+Total step : 77300      Batch loss: 1.1140      Epoch average loss: 1.2807
+Total step : 77400      Batch loss: 1.3513      Epoch average loss: 1.2850
+Total step : 77500      Batch loss: 1.3886      Epoch average loss: 1.2848
+Total step : 77600      Batch loss: 1.6135      Epoch average loss: 1.2927
+Total step : 77700      Batch loss: 1.1089      Epoch average loss: 1.2954
+Total step : 77800      Batch loss: 1.2353      Epoch average loss: 1.2998
+Total step : 77900      Batch loss: 1.2415      Epoch average loss: 1.3054
+Total step : 78000      Batch loss: 1.5634      Epoch average loss: 1.3055
+Total step : 78100      Batch loss: 1.4796      Epoch average loss: 1.3094
+Total step : 78200      Batch loss: 1.2882      Epoch average loss: 1.3128
+Total step : 78300      Batch loss: 1.4489      Epoch average loss: 1.3163
+Total step : 78400      Batch loss: 1.2875      Epoch average loss: 1.3180
+Total step : 78500      Batch loss: 1.2913      Epoch average loss: 1.3190
+Total step : 78600      Batch loss: 1.1758      Epoch average loss: 1.3216
+Total step : 78700      Batch loss: 1.5943      Epoch average loss: 1.3236
+Total step : 78800      Batch loss: 1.4646      Epoch average loss: 1.3268
+Total step : 78900      Batch loss: 1.5712      Epoch average loss: 1.3293
+Total step : 79000      Batch loss: 1.4847      Epoch average loss: 1.3299
+Total step : 79100      Batch loss: 1.3277      Epoch average loss: 1.3332
+Total step : 79200      Batch loss: 1.4646      Epoch average loss: 1.3348
+
+-----Epoch 33 开始测试-----
+
+Epoch: 33    BLEU: 0.2527
+
+-----Epoch 34 开始训练-----
+
+Total step : 79300      Batch loss: 1.1084      Epoch average loss: 1.2370
+Total step : 79400      Batch loss: 1.2704      Epoch average loss: 1.2564
+Total step : 79500      Batch loss: 1.2752      Epoch average loss: 1.2697
+Total step : 79600      Batch loss: 1.2517      Epoch average loss: 1.2753
+Total step : 79700      Batch loss: 1.4444      Epoch average loss: 1.2771
+Total step : 79800      Batch loss: 1.1634      Epoch average loss: 1.2810
+Total step : 79900      Batch loss: 1.0101      Epoch average loss: 1.2858
+Total step : 80000      Batch loss: 1.0195      Epoch average loss: 1.2861
+Total step : 80100      Batch loss: 1.2697      Epoch average loss: 1.2897
+Total step : 80200      Batch loss: 1.5092      Epoch average loss: 1.2905
+Total step : 80300      Batch loss: 1.3876      Epoch average loss: 1.2906
+Total step : 80400      Batch loss: 1.2480      Epoch average loss: 1.2937
+Total step : 80500      Batch loss: 1.6378      Epoch average loss: 1.2972
+Total step : 80600      Batch loss: 1.3878      Epoch average loss: 1.3004
+Total step : 80700      Batch loss: 1.2863      Epoch average loss: 1.3027
+Total step : 80800      Batch loss: 1.5612      Epoch average loss: 1.3056
+Total step : 80900      Batch loss: 1.4732      Epoch average loss: 1.3085
+Total step : 81000      Batch loss: 1.1422      Epoch average loss: 1.3098
+Total step : 81100      Batch loss: 1.2711      Epoch average loss: 1.3118
+Total step : 81200      Batch loss: 1.5970      Epoch average loss: 1.3132
+Total step : 81300      Batch loss: 1.3277      Epoch average loss: 1.3151
+Total step : 81400      Batch loss: 1.1327      Epoch average loss: 1.3181
+
+-----Epoch 34 开始测试-----
+
+Epoch: 34    BLEU: 0.2530
+
+-----Epoch 35 开始训练-----
+
+Total step : 81500      Batch loss: 1.4507      Epoch average loss: 1.3042
+Total step : 81600      Batch loss: 1.1759      Epoch average loss: 1.2277
+Total step : 81700      Batch loss: 1.4229      Epoch average loss: 1.2430
+Total step : 81800      Batch loss: 1.0284      Epoch average loss: 1.2469
+Total step : 81900      Batch loss: 1.4903      Epoch average loss: 1.2565
+Total step : 82000      Batch loss: 1.1327      Epoch average loss: 1.2563
+Total step : 82100      Batch loss: 1.0228      Epoch average loss: 1.2598
+Total step : 82200      Batch loss: 1.3538      Epoch average loss: 1.2638
+Total step : 82300      Batch loss: 1.3857      Epoch average loss: 1.2657
+Total step : 82400      Batch loss: 1.2373      Epoch average loss: 1.2681
+Total step : 82500      Batch loss: 1.1026      Epoch average loss: 1.2721
+Total step : 82600      Batch loss: 0.9549      Epoch average loss: 1.2759
+Total step : 82700      Batch loss: 1.4409      Epoch average loss: 1.2785
+Total step : 82800      Batch loss: 1.3239      Epoch average loss: 1.2816
+Total step : 82900      Batch loss: 1.1748      Epoch average loss: 1.2827
+Total step : 83000      Batch loss: 1.6833      Epoch average loss: 1.2861
+Total step : 83100      Batch loss: 1.1663      Epoch average loss: 1.2889
+Total step : 83200      Batch loss: 1.3485      Epoch average loss: 1.2914
+Total step : 83300      Batch loss: 1.5463      Epoch average loss: 1.2944
+Total step : 83400      Batch loss: 1.3441      Epoch average loss: 1.2976
+Total step : 83500      Batch loss: 1.6453      Epoch average loss: 1.2992
+Total step : 83600      Batch loss: 1.2033      Epoch average loss: 1.3013
+Total step : 83700      Batch loss: 1.3677      Epoch average loss: 1.3034
+
+-----Epoch 35 开始测试-----
+
+Epoch: 35    BLEU: 0.2527
+
+-----Epoch 36 开始训练-----
+
+Total step : 83800      Batch loss: 1.4357      Epoch average loss: 1.2289
+Total step : 83900      Batch loss: 1.1909      Epoch average loss: 1.2305
+Total step : 84000      Batch loss: 1.1373      Epoch average loss: 1.2313
+Total step : 84100      Batch loss: 1.0313      Epoch average loss: 1.2294
+Total step : 84200      Batch loss: 1.0691      Epoch average loss: 1.2332
+Total step : 84300      Batch loss: 1.1363      Epoch average loss: 1.2410
+Total step : 84400      Batch loss: 1.5579      Epoch average loss: 1.2441
+Total step : 84500      Batch loss: 1.1181      Epoch average loss: 1.2474
+Total step : 84600      Batch loss: 1.6244      Epoch average loss: 1.2572
+Total step : 84700      Batch loss: 1.4006      Epoch average loss: 1.2574
+Total step : 84800      Batch loss: 1.3584      Epoch average loss: 1.2600
+Total step : 84900      Batch loss: 1.2982      Epoch average loss: 1.2635
+Total step : 85000      Batch loss: 1.3143      Epoch average loss: 1.2666
+Total step : 85100      Batch loss: 1.1454      Epoch average loss: 1.2689
+Total step : 85200      Batch loss: 1.3737      Epoch average loss: 1.2697
+Total step : 85300      Batch loss: 1.4586      Epoch average loss: 1.2731
+Total step : 85400      Batch loss: 1.4578      Epoch average loss: 1.2758
+Total step : 85500      Batch loss: 1.3155      Epoch average loss: 1.2781
+Total step : 85600      Batch loss: 1.2485      Epoch average loss: 1.2790
+Total step : 85700      Batch loss: 1.3571      Epoch average loss: 1.2812
+Total step : 85800      Batch loss: 1.5463      Epoch average loss: 1.2840
+Total step : 85900      Batch loss: 1.5300      Epoch average loss: 1.2868
+Total step : 86000      Batch loss: 1.4196      Epoch average loss: 1.2881
+
+-----Epoch 36 开始测试-----
+
+Epoch: 36    BLEU: 0.2527
+
+-----Epoch 37 开始训练-----
+
+Total step : 86100      Batch loss: 1.5278      Epoch average loss: 1.2145
+Total step : 86200      Batch loss: 1.1515      Epoch average loss: 1.2168
+Total step : 86300      Batch loss: 1.3398      Epoch average loss: 1.2180
+Total step : 86400      Batch loss: 1.3266      Epoch average loss: 1.2221
+Total step : 86500      Batch loss: 1.3888      Epoch average loss: 1.2247
+Total step : 86600      Batch loss: 1.3447      Epoch average loss: 1.2277
+Total step : 86700      Batch loss: 1.1619      Epoch average loss: 1.2338
+Total step : 86800      Batch loss: 1.1296      Epoch average loss: 1.2372
+Total step : 86900      Batch loss: 1.2214      Epoch average loss: 1.2393
+Total step : 87000      Batch loss: 1.2133      Epoch average loss: 1.2409
+Total step : 87100      Batch loss: 1.2353      Epoch average loss: 1.2467
+Total step : 87200      Batch loss: 1.0159      Epoch average loss: 1.2493
+Total step : 87300      Batch loss: 1.0700      Epoch average loss: 1.2506
+Total step : 87400      Batch loss: 1.1678      Epoch average loss: 1.2533
+Total step : 87500      Batch loss: 1.1984      Epoch average loss: 1.2545
+Total step : 87600      Batch loss: 1.1516      Epoch average loss: 1.2581
+Total step : 87700      Batch loss: 1.3182      Epoch average loss: 1.2604
+Total step : 87800      Batch loss: 1.3683      Epoch average loss: 1.2626
+Total step : 87900      Batch loss: 1.4871      Epoch average loss: 1.2645
+Total step : 88000      Batch loss: 1.3408      Epoch average loss: 1.2671
+Total step : 88100      Batch loss: 1.1190      Epoch average loss: 1.2691
+Total step : 88200      Batch loss: 1.1996      Epoch average loss: 1.2719
+Total step : 88300      Batch loss: 1.4693      Epoch average loss: 1.2730
+
+-----Epoch 37 开始测试-----
+
+Epoch: 37    BLEU: 0.2508
+
+-----Epoch 38 开始训练-----
+
+Total step : 88400      Batch loss: 1.4225      Epoch average loss: 1.1700
+Total step : 88500      Batch loss: 1.2914      Epoch average loss: 1.1896
+Total step : 88600      Batch loss: 1.0505      Epoch average loss: 1.1922
+Total step : 88700      Batch loss: 1.1620      Epoch average loss: 1.2051
+Total step : 88800      Batch loss: 1.0333      Epoch average loss: 1.2085
+Total step : 88900      Batch loss: 1.0192      Epoch average loss: 1.2103
+Total step : 89000      Batch loss: 1.1182      Epoch average loss: 1.2136
+Total step : 89100      Batch loss: 1.2699      Epoch average loss: 1.2203
+Total step : 89200      Batch loss: 1.2509      Epoch average loss: 1.2234
+Total step : 89300      Batch loss: 1.2864      Epoch average loss: 1.2257
+Total step : 89400      Batch loss: 1.3445      Epoch average loss: 1.2306
+Total step : 89500      Batch loss: 1.4112      Epoch average loss: 1.2337
+Total step : 89600      Batch loss: 1.6289      Epoch average loss: 1.2350
+Total step : 89700      Batch loss: 1.2728      Epoch average loss: 1.2383
+Total step : 89800      Batch loss: 1.4460      Epoch average loss: 1.2409
+Total step : 89900      Batch loss: 1.3484      Epoch average loss: 1.2434
+Total step : 90000      Batch loss: 1.0169      Epoch average loss: 1.2468
+Total step : 90100      Batch loss: 1.4526      Epoch average loss: 1.2484
+Total step : 90200      Batch loss: 1.1462      Epoch average loss: 1.2499
+Total step : 90300      Batch loss: 1.5143      Epoch average loss: 1.2528
+Total step : 90400      Batch loss: 0.6399      Epoch average loss: 1.2550
+Total step : 90500      Batch loss: 1.2086      Epoch average loss: 1.2569
+Total step : 90600      Batch loss: 1.0527      Epoch average loss: 1.2585
+
+-----Epoch 38 开始测试-----
+
+Epoch: 38    BLEU: 0.2525
+
+-----Epoch 39 开始训练-----
+
+Total step : 90700      Batch loss: 1.3509      Epoch average loss: 1.1616
+Total step : 90800      Batch loss: 1.0909      Epoch average loss: 1.1730
+Total step : 90900      Batch loss: 1.2265      Epoch average loss: 1.1872
+Total step : 91000      Batch loss: 1.1433      Epoch average loss: 1.1841
+Total step : 91100      Batch loss: 1.0552      Epoch average loss: 1.1951
+Total step : 91200      Batch loss: 1.0920      Epoch average loss: 1.1995
+Total step : 91300      Batch loss: 1.1194      Epoch average loss: 1.2026
+Total step : 91400      Batch loss: 1.2440      Epoch average loss: 1.2068
+Total step : 91500      Batch loss: 1.4184      Epoch average loss: 1.2138
+Total step : 91600      Batch loss: 1.2215      Epoch average loss: 1.2158
+Total step : 91700      Batch loss: 1.4688      Epoch average loss: 1.2174
+Total step : 91800      Batch loss: 1.3573      Epoch average loss: 1.2205
+Total step : 91900      Batch loss: 1.2586      Epoch average loss: 1.2234
+Total step : 92000      Batch loss: 1.3173      Epoch average loss: 1.2278
+Total step : 92100      Batch loss: 1.4516      Epoch average loss: 1.2292
+Total step : 92200      Batch loss: 1.3996      Epoch average loss: 1.2317
+Total step : 92300      Batch loss: 1.3393      Epoch average loss: 1.2332
+Total step : 92400      Batch loss: 1.3774      Epoch average loss: 1.2354
+Total step : 92500      Batch loss: 1.3824      Epoch average loss: 1.2376
+Total step : 92600      Batch loss: 1.2141      Epoch average loss: 1.2396
+Total step : 92700      Batch loss: 1.5358      Epoch average loss: 1.2424
+Total step : 92800      Batch loss: 1.4256      Epoch average loss: 1.2450
+Total step : 92900      Batch loss: 0.9067      Epoch average loss: 1.2463
+
+-----Epoch 39 开始测试-----
+
+Epoch: 39    BLEU: 0.2581
+
+-----Epoch 40 开始训练-----
+
+Total step : 93000      Batch loss: 1.3866      Epoch average loss: 1.1595
+Total step : 93100      Batch loss: 1.4620      Epoch average loss: 1.1666
+Total step : 93200      Batch loss: 1.0379      Epoch average loss: 1.1795
+Total step : 93300      Batch loss: 1.0726      Epoch average loss: 1.1847
+Total step : 93400      Batch loss: 1.2479      Epoch average loss: 1.1858
+Total step : 93500      Batch loss: 1.2799      Epoch average loss: 1.1877
+Total step : 93600      Batch loss: 1.2737      Epoch average loss: 1.1919
+Total step : 93700      Batch loss: 1.2860      Epoch average loss: 1.1980
+Total step : 93800      Batch loss: 1.3830      Epoch average loss: 1.2029
+Total step : 93900      Batch loss: 1.0322      Epoch average loss: 1.2041
+Total step : 94000      Batch loss: 1.3779      Epoch average loss: 1.2064
+Total step : 94100      Batch loss: 1.1504      Epoch average loss: 1.2102
+Total step : 94200      Batch loss: 1.1497      Epoch average loss: 1.2116
+Total step : 94300      Batch loss: 1.0746      Epoch average loss: 1.2124
+Total step : 94400      Batch loss: 1.1648      Epoch average loss: 1.2175
+Total step : 94500      Batch loss: 1.2909      Epoch average loss: 1.2190
+Total step : 94600      Batch loss: 1.1794      Epoch average loss: 1.2197
+Total step : 94700      Batch loss: 1.4420      Epoch average loss: 1.2231
+Total step : 94800      Batch loss: 1.5927      Epoch average loss: 1.2247
+Total step : 94900      Batch loss: 1.0242      Epoch average loss: 1.2277
+Total step : 95000      Batch loss: 1.0450      Epoch average loss: 1.2301
+Total step : 95100      Batch loss: 1.0003      Epoch average loss: 1.2317
+Total step : 95200      Batch loss: 1.2619      Epoch average loss: 1.2332
+
+-----Epoch 40 开始测试-----
+
+Epoch: 40    BLEU: 0.2547
+
+-----Epoch 41 开始训练-----
+
+Total step : 95300      Batch loss: 1.3255      Epoch average loss: 1.1529
+Total step : 95400      Batch loss: 1.2078      Epoch average loss: 1.1521
+Total step : 95500      Batch loss: 1.0416      Epoch average loss: 1.1565
+Total step : 95600      Batch loss: 1.3802      Epoch average loss: 1.1624
+Total step : 95700      Batch loss: 1.3893      Epoch average loss: 1.1700
+Total step : 95800      Batch loss: 1.3918      Epoch average loss: 1.1767
+Total step : 95900      Batch loss: 0.9952      Epoch average loss: 1.1816
+Total step : 96000      Batch loss: 1.2138      Epoch average loss: 1.1832
+Total step : 96100      Batch loss: 1.1152      Epoch average loss: 1.1883
+Total step : 96200      Batch loss: 1.0724      Epoch average loss: 1.1907
+Total step : 96300      Batch loss: 1.1648      Epoch average loss: 1.1935
+Total step : 96400      Batch loss: 1.4090      Epoch average loss: 1.1957
+Total step : 96500      Batch loss: 0.9916      Epoch average loss: 1.1991
+Total step : 96600      Batch loss: 1.0789      Epoch average loss: 1.2020
+Total step : 96700      Batch loss: 1.2873      Epoch average loss: 1.2034
+Total step : 96800      Batch loss: 1.2359      Epoch average loss: 1.2050
+Total step : 96900      Batch loss: 0.9078      Epoch average loss: 1.2072
+Total step : 97000      Batch loss: 1.2226      Epoch average loss: 1.2103
+Total step : 97100      Batch loss: 1.4451      Epoch average loss: 1.2127
+Total step : 97200      Batch loss: 1.3934      Epoch average loss: 1.2138
+Total step : 97300      Batch loss: 1.1115      Epoch average loss: 1.2168
+Total step : 97400      Batch loss: 0.9243      Epoch average loss: 1.2191
+Total step : 97500      Batch loss: 1.0460      Epoch average loss: 1.2204
+
+-----Epoch 41 开始测试-----
+
+Epoch: 41    BLEU: 0.2484
+
+-----Epoch 42 开始训练-----
+
+Total step : 97600      Batch loss: 1.0529      Epoch average loss: 1.1350
+Total step : 97700      Batch loss: 1.2682      Epoch average loss: 1.1469
+Total step : 97800      Batch loss: 0.9221      Epoch average loss: 1.1574
+Total step : 97900      Batch loss: 1.0314      Epoch average loss: 1.1556
+Total step : 98000      Batch loss: 1.1483      Epoch average loss: 1.1595
+Total step : 98100      Batch loss: 1.3846      Epoch average loss: 1.1677
+Total step : 98200      Batch loss: 1.0276      Epoch average loss: 1.1688
+Total step : 98300      Batch loss: 1.0861      Epoch average loss: 1.1712
+Total step : 98400      Batch loss: 1.4300      Epoch average loss: 1.1744
+Total step : 98500      Batch loss: 1.0991      Epoch average loss: 1.1777
+Total step : 98600      Batch loss: 1.1464      Epoch average loss: 1.1785
+Total step : 98700      Batch loss: 1.4135      Epoch average loss: 1.1829
+Total step : 98800      Batch loss: 1.2828      Epoch average loss: 1.1863
+Total step : 98900      Batch loss: 1.2262      Epoch average loss: 1.1877
+Total step : 99000      Batch loss: 1.1535      Epoch average loss: 1.1907
+Total step : 99100      Batch loss: 1.0131      Epoch average loss: 1.1938
+Total step : 99200      Batch loss: 1.0255      Epoch average loss: 1.1959
+Total step : 99300      Batch loss: 1.0762      Epoch average loss: 1.1977
+Total step : 99400      Batch loss: 1.1507      Epoch average loss: 1.2003
+Total step : 99500      Batch loss: 1.2467      Epoch average loss: 1.2018
+Total step : 99600      Batch loss: 1.4570      Epoch average loss: 1.2051
+Total step : 99700      Batch loss: 1.2337      Epoch average loss: 1.2061
+Total step : 99800      Batch loss: 1.1993      Epoch average loss: 1.2080
+
+-----Epoch 42 开始测试-----
+
+Epoch: 42    BLEU: 0.2552
+
+-----Epoch 43 开始训练-----
+
+Total step : 99900      Batch loss: 1.4295      Epoch average loss: 1.1268
+Total step : 100000      Batch loss: 1.2778      Epoch average loss: 1.1282
+Total step : 100100      Batch loss: 1.2139      Epoch average loss: 1.1386
+Total step : 100200      Batch loss: 1.2589      Epoch average loss: 1.1498
+Total step : 100300      Batch loss: 1.1615      Epoch average loss: 1.1512
+Total step : 100400      Batch loss: 1.0555      Epoch average loss: 1.1546
+Total step : 100500      Batch loss: 0.9945      Epoch average loss: 1.1579
+Total step : 100600      Batch loss: 1.1077      Epoch average loss: 1.1626
+Total step : 100700      Batch loss: 1.1520      Epoch average loss: 1.1655
+Total step : 100800      Batch loss: 1.1996      Epoch average loss: 1.1678
+Total step : 100900      Batch loss: 1.1862      Epoch average loss: 1.1709
+Total step : 101000      Batch loss: 0.8885      Epoch average loss: 1.1729
+Total step : 101100      Batch loss: 1.4736      Epoch average loss: 1.1747
+Total step : 101200      Batch loss: 1.1440      Epoch average loss: 1.1763
+Total step : 101300      Batch loss: 1.4736      Epoch average loss: 1.1781
+Total step : 101400      Batch loss: 1.0993      Epoch average loss: 1.1814
+Total step : 101500      Batch loss: 1.1994      Epoch average loss: 1.1831
+Total step : 101600      Batch loss: 1.2731      Epoch average loss: 1.1871
+Total step : 101700      Batch loss: 1.1015      Epoch average loss: 1.1895
+Total step : 101800      Batch loss: 0.8251      Epoch average loss: 1.1911
+Total step : 101900      Batch loss: 1.5586      Epoch average loss: 1.1929
+Total step : 102000      Batch loss: 1.4426      Epoch average loss: 1.1949
+
+-----Epoch 43 开始测试-----
+
+Epoch: 43    BLEU: 0.2529
+
+-----Epoch 44 开始训练-----
+
+Total step : 102100      Batch loss: 1.0961      Epoch average loss: 1.0961
+Total step : 102200      Batch loss: 1.2110      Epoch average loss: 1.1119
+Total step : 102300      Batch loss: 1.0956      Epoch average loss: 1.1205
+Total step : 102400      Batch loss: 1.0745      Epoch average loss: 1.1282
+Total step : 102500      Batch loss: 1.3641      Epoch average loss: 1.1315
+Total step : 102600      Batch loss: 1.0998      Epoch average loss: 1.1375
+Total step : 102700      Batch loss: 1.2824      Epoch average loss: 1.1409

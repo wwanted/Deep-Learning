@@ -1,0 +1,40 @@
+Name: model_00.pth    BLEU: 0.2701
+
+Name: model_01.pth    BLEU: 0.2748
+
+Name: model_02.pth    BLEU: 0.2699
+
+Name: model_03.pth    BLEU: 0.2720
+
+Name: model_04.pth    BLEU: 0.2660
+
+Name: model_05.pth    BLEU: 0.2740
+
+Name: model_06.pth    BLEU: 0.2689
+
+Name: model_07.pth    BLEU: 0.2738
+
+Name: model_08.pth    BLEU: 0.2711
+
+Name: model_09.pth    BLEU: 0.2697
+
+Name: model_10.pth    BLEU: 0.2722
+
+Name: model_11.pth    BLEU: 0.2747
+
+Name: model_12.pth    BLEU: 0.2679
+
+Name: model_13.pth    BLEU: 0.2746
+
+Name: model_14.pth    BLEU: 0.2745
+
+Name: model_15.pth    BLEU: 0.2719
+
+Name: model_16.pth    BLEU: 0.2770
+
+Name: model_17.pth    BLEU: 0.2682
+
+Name: model_18.pth    BLEU: 0.2760
+
+Name: model_19.pth    BLEU: 0.2715
+
