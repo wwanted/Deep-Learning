@@ -1,4 +1,4 @@
-from 自然语言处理NLP.Transformer.utils import *
+from utils import *
 import numpy as np
 import torch
 from torchtext import data
